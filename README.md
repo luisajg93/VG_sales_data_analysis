@@ -7,3 +7,6 @@ En este proyecto se trabajan:
  - Correción de datos y tratamiento de datos duplicados y ausentes.
  - Visualización de datos con gráficos de barras, dispersión y diagramas de cajas.
  - Pruebas de hipótesis sobre la igualdad de medias de dos poblaciones independientes.
+
+## Resultados
+Consulte el archivo Proyecto_6_aprobado para los resultados.  
